@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  parent: 1
+  type: MyString
+  sn: MyString
+  location: MyText
+
+two:
+  parent: 1
+  type: MyString
+  sn: MyString
+  location: MyText

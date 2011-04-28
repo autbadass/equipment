@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  body: MyText
+  inventory_id: 1
+  datetime: 2011-04-27 21:19:38
+
+two:
+  name: MyString
+  body: MyText
+  inventory_id: 1
+  datetime: 2011-04-27 21:19:38
